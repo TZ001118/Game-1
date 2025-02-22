@@ -1,4 +1,7 @@
 {
-    "highscore": 100,
-    "player": "Alice"
-}
+    "players": [
+      { "name": "Alice", "highscore": 100 },
+      { "name": "Bob", "highscore": 200 },
+      { "name": "Charlie", "highscore": 150 }
+    ]
+}  
